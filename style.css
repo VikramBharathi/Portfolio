@@ -1,0 +1,16 @@
+.header{
+    width: auto;
+    min-height: 120vh;
+    background: url("https://images.squarespace-cdn.com/content/v1/5a64fd468a02c74bc460e67e/1516574405844-1A4CBZC2HQR3VWB7Z7Z1/image-asset.png?format=2500w");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header h1,p{
+    color: white;
+    margin-top: 55vh;
+}
+.about{
+    width: 100%;
+    height: auto;
+}
